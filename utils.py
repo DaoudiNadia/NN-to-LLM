@@ -746,7 +746,6 @@ def print_feature_importance(model: NN, x_train: np.ndarray,
         ig, x_cat_orig_df, cat_cols, start_idx)
     summary.update(cat_summary)
     print_ig_json_summary(summary, n_truncate)
-    return summary
 
 
 def print_ig_json_summary(ig_summary, n: int):
