@@ -1,11 +1,6 @@
 # NN-to-LLM Migration for Tabular Classification
 
-This repository hosts the artefacts accompanying the paper **"Neural Networks Teach LLMs on Tabular Data Tasks"**.  
-
-
-## Overview
-The paper proposes a knowledge migration approach that extracts insights from trained neural networks and provides them to LLMs via the prompt for tabular data prediction, preserving learned patterns when transitioning from NNs to LLMs.
-
+This repository hosts the artefacts accompanying our paper.  
 
 ## Datasets
 
